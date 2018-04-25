@@ -1,2 +1,4 @@
 # disablesound
-GMod disable sound addon
+GMod disable sound addon:
+
+- Disable thunder sound
